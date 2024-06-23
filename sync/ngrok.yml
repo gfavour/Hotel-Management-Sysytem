@@ -1,0 +1,10 @@
+authtoken: 1wSpjxtga6AJhpPNL1tRVzPfY3s_2PTcGnWyarXfSF5MwJCYs
+web_addr: localhost:8080
+tunnels:
+  website:
+    addr: 80
+    proto: http
+  ssh-access:
+    addr: 3306
+    proto: tcp
+    remote_addr: 0.tcp.ngrok.io:12843

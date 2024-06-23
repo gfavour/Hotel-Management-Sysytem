@@ -1,0 +1,29 @@
+/********** start pagination *****************************/
+.navdiv{clear:both;margin:20px 0px 0px 10px;}
+#MarginT20{margin-top:20px;}
+#MarginT10{margin-top:10px;}
+#MarginT5{margin-top:5px;}
+
+.paginate {
+font-family: Arial, Helvetica, sans-serif;
+font-size: 11px; margin-bottom:10px;
+}
+a.paginate {
+text-decoration: none;
+color: #333;
+}
+a.paginate:hover {
+color: #c00;
+text-decoration: none;
+}
+a.current {
+cursor: default;
+color: #c00 !important;
+text-decoration: none !important;
+}
+span.inactive {
+padding: 2px 6px 2px 6px;
+color: #999;
+cursor: default;
+}
+/********************end of pagination ****************************/

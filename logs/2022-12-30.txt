@@ -1,0 +1,12 @@
+[22/12/30 03:33:53 PM],<br>STAFF: Jeremy Maxwell (ID: 5),<br>Deposited 9,000.00 to USER1 JAME1 (ID: 11) e-wallet 
+=======================================
+
+<br><br>[22/12/30 03:34:59 PM], <br>New Order Added, <br>BY STAFF: Jeremy Maxwell(5), <br>INVOICE ID: 67277853, <br><br>SERVICE: Room Booking,<br>Room: , No of Room: 1, Check-in Date: 2022-12-30, Check-out Date: 2022-12-31, Duration: 1, <br>Total Amount: 20000
+=======================================
+
+[22/12/30 03:37:01 PM], <br>Payment made, <br>By Staff: Jeremy Maxwell (ID: 5), <br>INVOICE ID: 1672301532
+=======================================
+
+[22/12/30 03:37:04 PM], <br>Payment made, <br>By Staff: Jeremy Maxwell (ID: 5), <br>INVOICE ID: 1661200822
+=======================================
+

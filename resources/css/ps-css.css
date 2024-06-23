@@ -1,0 +1,48 @@
+.hdstyle2{margin:0px 10px 10px 15px; color:#FF6600;}
+/*.row{margin-left:0px; margin-bottom:5px; margin-top:0px; display:block; float:none;}*/
+.float-btn-right{float:right; margin-top:-50px;}
+#tab-reservation,#tab-bar,#tab-spa,#tab-restaurant,#tab-laundary,#tab-sport{ display:none;}
+a.close{text-decoration:none !important;}
+.width-div-1{ margin:10px 10px;}
+.width-div-1 div strong{width:150px !important; display:inline-block !important;}
+.label-grey{ background:#CCCCCC;}
+.width-div-2{ margin:0 10px 5px 10px; padding-bottom:5px; border-bottom:#ccc dashed 1px;}
+.labelwidth strong{ display:inline-block; width:150px;}
+
+.autohideMe {
+    -moz-animation: cssAnimation 0s ease-in 5s forwards;
+    /* #msgbox, Firefox */
+    -webkit-animation: cssAnimation 0s ease-in 5s forwards;
+    /* Safari and Chrome */
+    -o-animation: cssAnimation 0s ease-in 5s forwards;
+    /* Opera */
+    animation: cssAnimation 0s ease-in 5s forwards;
+    -webkit-animation-fill-mode: forwards;
+    animation-fill-mode: forwards;
+}
+@keyframes cssAnimation {
+    to {
+        width:0;
+        height:0;
+        overflow:hidden;
+    }
+}
+@-webkit-keyframes cssAnimation {
+    to {
+        width:0;
+        height:0;
+        visibility:hidden;
+    }
+}
+
+.width50per{width:45%;float:left; margin:0 25px 25px 0;}
+@media (max-width: 800px) {
+.width50per{width:100%;float:none; margin:0 0 10px 0;}
+
+}
+
+@media (max-width: 668px) {
+.width50per{width:100%;float:none; margin:0 0 10px 0;}
+.inner h3{font-size:140% !important;}
+.inner sup{font-size:60% !important;}
+}

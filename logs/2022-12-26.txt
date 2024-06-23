@@ -1,0 +1,24 @@
+[22/12/26 02:45:15 AM], <br>Staff logged in, <br>STAFF: Jeremy Maxwell (ID: 5)
+=======================================
+
+[22/12/26 05:45:24 PM], <br>Room Editted, <br>BY STAFF: Jeremy Maxwell(5), <br>ROOM ID: 1, <br>ROOM NUMBER: Room 1101, <br><strong>ROOM TYPE:</strong> 1 Bedroom Suite,<br>RATE: 15000
+=======================================
+
+[22/12/26 05:45:46 PM], <br>Room Editted, <br>BY STAFF: Jeremy Maxwell(5), <br>ROOM ID: 2, <br>ROOM NUMBER: Room 1102, <br><strong>ROOM TYPE:</strong> Classic,<br>RATE: 20000
+=======================================
+
+[22/12/26 05:46:01 PM], <br>Room Editted, <br>BY STAFF: Jeremy Maxwell(5), <br>ROOM ID: 3, <br>ROOM NUMBER: Room 1103, <br><strong>ROOM TYPE:</strong> Deluxe,<br>RATE: 25000
+=======================================
+
+[22/12/26 05:46:22 PM], <br>Room Editted, <br>BY STAFF: Jeremy Maxwell(5), <br>ROOM ID: 4, <br>ROOM NUMBER: Room 1104, <br><strong>ROOM TYPE:</strong> Deluxe Pool,<br>RATE: 35000
+=======================================
+
+[22/12/26 05:46:39 PM], <br>Room Editted, <br>BY STAFF: Jeremy Maxwell(5), <br>ROOM ID: 1, <br>ROOM NUMBER: Room 1101, <br><strong>ROOM TYPE:</strong> Classic,<br>RATE: 15000
+=======================================
+
+[22/12/26 05:46:50 PM], <br>Room Editted, <br>BY STAFF: Jeremy Maxwell(5), <br>ROOM ID: 4, <br>ROOM NUMBER: Room 1104, <br><strong>ROOM TYPE:</strong> Premium Classic,<br>RATE: 35000
+=======================================
+
+<br><br>[22/12/26 05:47:36 PM], <br>New Order Added, <br>BY STAFF: Jeremy Maxwell(5), <br>INVOICE ID: 66940220, <br><br>SERVICE: Room Booking,<br>Room: , No of Room: 1, Check-in Date: 2022-12-26, Check-out Date: 2022-12-30, Duration: 4, <br>Total Amount: 60000
+=======================================
+

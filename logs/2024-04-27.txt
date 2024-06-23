@@ -1,0 +1,6 @@
+[24/04/27 01:02:32 PM], <br>Staff logged in, <br>STAFF: Jeremy Maxwell (ID: 5)
+=======================================
+
+[24/04/27 02:09:44 PM], <br>Guest Checked Out, <br>BY STAFF: Jeremy Maxwell(5), <br>ROOM: , <br>INVOICE ID: 66940220
+=======================================
+

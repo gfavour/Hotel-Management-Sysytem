@@ -1,0 +1,24 @@
+[22/11/28 12:23:10 PM], <br>Staff logged in, <br>STAFF: Jeremy Maxwell (ID: 5)
+=======================================
+
+[22/11/28 12:29:35 PM], <br>Staff logged in, <br>STAFF: Jeremy Maxwell (ID: 5)
+=======================================
+
+[22/11/28 12:39:40 PM],<br>STAFF: Jeremy Maxwell (ID: 5),<br>Deposited 6,000.00 to ADEBOWALE JAMES3 (ID: 13) e-wallet 
+=======================================
+
+[22/11/28 12:39:57 PM],<br>STAFF: Jeremy Maxwell (ID: 5),<br>Withdrawed 3,000.00 from ADEBOWALE JAMES3 (ID: 13) e-wallet. Amount Before Withdraw: 6,000.00
+=======================================
+
+[22/11/28 12:41:58 PM],<br>STAFF: Jeremy Maxwell (ID: 5),<br>Updated ADEBOWALE JAMES3 (ID: 13) e-wallet fund from 3,000.00 to 4,500.00
+=======================================
+
+[22/11/28 12:42:17 PM],<br>STAFF: Jeremy Maxwell (ID: 5),<br>Updated ADEBOWALE JAMES3 (ID: 13) e-wallet fund from 4,500.00 to 3,000.00
+=======================================
+
+<br><br>[22/11/28 02:00:59 PM], <br>New Order Added, <br>BY STAFF: Jeremy Maxwell(5), <br>INVOICE ID: 64507419, <br><br>SERVICE: Room Booking,<br>Room: , No of Room: 1, Check-in Date: 2022-11-28, Check-out Date: 2022-11-30, Duration: 2, <br>Total Amount: 38000
+=======================================
+
+[22/11/28 02:02:11 PM], <br>Guest Checked Out, <br>BY STAFF: Jeremy Maxwell(5), <br>ROOM: , <br>INVOICE ID: 56067604
+=======================================
+

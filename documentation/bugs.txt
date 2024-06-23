@@ -1,0 +1,5 @@
+New version
+===========
+- Bighms converted to PHP 7/8 - done
+- Bar items limitation of 328 items. Its throws warning error if more than 328. Still working to see how to paginate it and make it searcheable. One solution we can think of now is bootstrap filter tools.
+- Bar for multiple of multiple order at a time. then send out multiple print buttons wrt their invoice id.

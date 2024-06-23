@@ -1,0 +1,12 @@
+[22/12/29 09:08:38 AM], <br>Guest Checked Out, <br>BY STAFF: Jeremy Maxwell(5), <br>ROOM: , <br>INVOICE ID: 64507419
+=======================================
+
+[22/12/29 09:11:34 AM],<br>STAFF: Jeremy Maxwell (ID: 5),<br>Deposited 60,000.00 to USER1 JAME1 (ID: 11) e-wallet 
+=======================================
+
+[22/12/29 09:11:51 AM],<br>STAFF: Jeremy Maxwell (ID: 5),<br>Deposited 120,000.00 to OSEI AKINADE (ID: 15) e-wallet 
+=======================================
+
+<br><br>[2022-12-29 09:12:12 AM], <br>New Order From Bar-1, <br>BY STAFF: Jeremy Maxwell(5), <br>INVOICE ID: 1672301532, <br>Total: 14000
+=======================================
+
