@@ -1,0 +1,2 @@
+# Hotel Management Sysytem
+ This software is for hotel to manage transactions, check-in and check-out guest, use it to manage bars, restaurant, spa, laundry, swimming pool, and other aspect of hotels. Use it to generate comprehensive report. Also, use it to control smart door in your hotel. Generate smart card for guest to access their room. For now it only work with RFID and ORBITA smart doors. You can contact us if you want it to work for any other smart doors.
